@@ -1,8 +1,8 @@
-#Clone
+# Clone
 you know
-#Install 
+# Install 
 npm install
-#Run
+# Run
 npm run dev
-#Build
+# Build
 npm run build
